@@ -1,6 +1,6 @@
 
 <!-- ![alt text](https://github.com/CatLuong0106/CatLuong0106/blob/main/background.png) -->
-![Header Image](https://github.com/CatLuong0106/CatLuong0106/blob/main/background_1.png)
+![Header Image](https://github.com/CatLuong0106/CatLuong0106/blob/main/background.png)
 
 **Credits:** [NASA James Webb Space Telescope](https://webb.nasa.gov/)
 
