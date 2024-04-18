@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/CatLuong0106/CatLuong0106/blob/main/background.png?raw=true)
+![alt text](https://github.com/CatLuong0106/CatLuong0106/blob/main/background.png)
 
 - 🔭 I’m working on Natural Language Processing, Machine Learning, and Deep Learning. I also love Mathematics and am looking into probabilistic models used for trading. 
 - 🌱 I’m currently learning German and how to manage my finances more effectively. 
