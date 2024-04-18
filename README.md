@@ -1,7 +1,8 @@
-### Hi there 👋
+
 <!-- ![alt text](https://github.com/CatLuong0106/CatLuong0106/blob/main/background.png) -->
 ![Header Image](https://github.com/CatLuong0106/CatLuong0106/blob/main/background_1.png)
 
+### Hi there 👋
 - 🔭 I’m working on Natural Language Processing, Machine Learning, and Deep Learning. I also love Mathematics and am looking into probabilistic models used for trading. 
 - 🌱 I’m currently learning German and how to manage my finances more effectively. 
 - 👯 I’m looking to collaborate on Natural Language Processing or Deep Learning research papers
