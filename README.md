@@ -12,7 +12,7 @@
 - 📫 You can reach me via email: luongcn@mail.uc.edu
 - 💬 Ask me about movies or cooking
 - ⚡ Fun fact: I dreamed of becoming an astrophysicist as a child
-- 📖 My publications: https://scholar.google.com/citations?user=2D4TsmIAAAAJ&hl=en 
+- 📖 My publications: ![Google Scholar](https://scholar.google.com/citations?user=2D4TsmIAAAAJ&hl=en)
 <!--
 **CatLuong0106/CatLuong0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
